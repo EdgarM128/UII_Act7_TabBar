@@ -14,8 +14,9 @@ https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 ## Resultados de mi aplicacion en: FlutLab - Flutter Online IDE
--![image](https://github.com/EdgarM128/UII_Act7_TabBar/assets/145927073/ad85ec56-8103-41b6-8a18-0a45b3dc2503)
--![image](https://github.com/EdgarM128/UII_Act7_TabBar/assets/145927073/3368608a-1a90-4dc5-aae1-734b7a0adf0b)
--![image](https://github.com/EdgarM128/UII_Act7_TabBar/assets/145927073/d1365a92-f2a2-4ed8-87f6-73d50e30e3df)
+-![image](https://github.com/EdgarM128/UII_Act7_TabBar/assets/145927073/3bf9f749-736b-40ad-8937-89c0759d02fb)
+-![image](https://github.com/EdgarM128/UII_Act7_TabBar/assets/145927073/bb39e7df-e849-42f8-831d-b26f9f016fc8)
+-![image](https://github.com/EdgarM128/UII_Act7_TabBar/assets/145927073/b7fd1b2f-b889-4d64-98e9-ff4e566af2ee)
+
 
 Link de referencia: https://www.youtube.com/watch?v=l-sCJLlAqFo
